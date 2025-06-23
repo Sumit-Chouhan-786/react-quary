@@ -4,7 +4,7 @@ import type { Post } from "../vite-env.d.ts";
 
 export const myApi = createApi({
   reducerPath: "postApi",
-  baseQuery: fetchBaseQuery({ baseUrl: "http://localhost:3000" }),
+  baseQuery: fetchBaseQuery({ baseUrl: "https://heartfelt-froyo-1d39b4.netlify.app/" }),
   tagTypes: ["Post"],
   endpoints: (builder) => ({
     getPosts: builder.query<Post[], void>({
