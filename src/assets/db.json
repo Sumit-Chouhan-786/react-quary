@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "title": "sonu",
+      "content": "sonu is my sister",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "title": "third Post",
+      "content": "This is the third post"
+    },
+    {
+      "id": "d0ea",
+      "title": "sumit",
+      "content": "my name is sumit"
+    }
+  ]
+}
